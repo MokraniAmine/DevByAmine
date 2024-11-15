@@ -34,8 +34,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokraniamine&show_icons=true&locale=en&layout=compact" alt="mokraniamine" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokraniamine&show_icons=true&locale=en" alt="mokraniamine" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amine499-mac&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amine499-mac&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amine499-mac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
