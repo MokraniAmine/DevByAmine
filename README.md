@@ -1,8 +1,8 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/MokraniAmine)
+### Hi there 👋 I'm [Amine ](https://github.com/MokraniAmine)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## I'm a a front-end developer !
 
 - 🔭 I’m currently working on **Travel Agency web site**
 
