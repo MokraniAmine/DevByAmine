@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a a front-end developer !
+## I'm a front-end developer !
 
 - 🔭 I’m currently working on **Travel Agency web site**
 
