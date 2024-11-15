@@ -34,4 +34,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokraniamine&show_icons=true&locale=en&layout=compact" alt="mokraniamine" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokraniamine&show_icons=true&locale=en" alt="mokraniamine" /></p>
+
 ---
